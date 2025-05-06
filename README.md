@@ -18,7 +18,7 @@ This Laravel package automatically initializes DataTables with export buttons fo
         "url": "https://github.com/kamranraz28/DataTable-Package.git"
     }
 Add this to the end of the file
-3. Run "composer require kamran/datatble:dev-master"
+3. Run "composer require kamran/datatable:dev-master"
 4. Include the Blade view in your layout: `@include('kamran-datatable::datatable')`
 
 Now any table with `id="dataTable"` will be automatically enhanced.
