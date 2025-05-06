@@ -15,7 +15,7 @@ This Laravel package automatically initializes DataTables with export buttons fo
    "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/your-username/kamran-datatable"
+        "url": "https://github.com/kamranraz28/DataTable-Package.git"
     }
 Add this to the end of the file
 3. Run "composer require kamran/datatble:dev-master"
